@@ -1,0 +1,4 @@
+[submodule "zaidkilani/royalline-addons"]
+	path = zaidkilani/royalline-addons
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = 05-09-2019
